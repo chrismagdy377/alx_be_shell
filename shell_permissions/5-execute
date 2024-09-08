@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod 744 /alx_be_shell/shell_permissions/hello
+chmod 777 /alx_be_shell/shell_permissions/hello
